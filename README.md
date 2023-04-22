@@ -16,7 +16,7 @@ To start the app, run the following command:
 `npm start`
 
 
-This will start the development server and open the app in your default browser.
+This will start the development server and open the app in your default browser. You can also access the deployed version of the app at [Lottery Contract](https://lottery-react-d-app.vercel.app/).
 
 ### Interacting with the contract
 
